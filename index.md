@@ -21,9 +21,11 @@ incubation takes 5 days usually
 
 - how long it takes from getting to noticing
 
-9-net count is similar
-- bx italy, spain, us
-- despite variable density and population.
+net count of infected cases is similar  
+- 2020-03-23
+- bx italy, spain, U.S.
+- despite variable population and geographical density.
+- [question](#macro-environment)
 
 ## comparisons  
 [src](https://www.statnews.com/2020/03/16/coronavirus-can-become-aerosol-doesnt-mean-doomed/)  
@@ -40,6 +42,7 @@ c-covid19 appear aerosol surviving
 
 what is transmission likelihood to/from pets?
 
+## macro-environment  
 how much does macro env. affect covid19?  
 e-weather, geographical distance
 - is 'human host' too narrow of transmission-definition?
