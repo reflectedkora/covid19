@@ -1,9 +1,5 @@
 
-# thesis  
-Covid-19 is uniquely monolithic in its impact across humanity, providing a unique and vital experiment in language as humans' most powerful tool for connection. This essay is an experiment in maximizing such potential.
-
-# content  
-Covid-19 is also known as Corona Virus, SARS-CoV2. It is a virus that spreads and kills. Its lethality is owed in large part to being a new virus that the human body had no prior defenses for, and scientists had no knowledge to establish effective defenses.
+Covid-19 is also known as Corona Virus, and SARS-CoV2. It is a virus that spreads and kills. Its lethality is owed in large part to being a new virus that the human body had no prior defenses for, and scientists had no knowledge to establish effective defenses.
 
 Since initial cases in November 19 in Wuhan Province, China, we have learned much. 
 
