@@ -4,9 +4,7 @@ Covid-19 is uniquely monolithic in its impact across humanity, providing a uniqu
 
 # main text
 ## definitions  
-covid19  
-- corona virus  
-- SARS-CoV2  
+Covid-19 is also known as Corona Virus, SARS-CoV2.
 
 # content  
 incubation takes 5 days usually
@@ -20,22 +18,15 @@ net count of infected cases is similar
 - despite variable population and geographical density.
 - [question](#macro-environment)
 
-## comparisons  
-[src](https://www.statnews.com/2020/03/16/coronavirus-can-become-aerosol-doesnt-mean-doomed/)  
-measles
-- aerosol surviving
-- 12-15 new cases per case
-covid19
-- 2-3 new cases per case
-
-# q
-c-covid19 appear aerosol surviving
-- less than we've thought  
-- [see comparisons](#comparisons)
+## Transmission factors
+People first worried Covid-19 can spread through air, but not as much anymore ([support](#not-spread-by-air)).  
+Air pollution increases it's transmission.
 
 what is transmission likelihood to/from pets?
 
-## macro-environment  
-how much does macro env. affect covid19?  
-e-weather, geographical distance
-- is 'human host' too narrow of transmission-definition?
+# Appendix
+*to be pushed to secondary documents.* Support for claims in main argument.
+
+## not-spread-by-air
+Measles is a virus known to transmit by air. The consequence is that measles is highly contagious, typically spreading to 12 people from each person that has it. Current data suggests Covid-19 spreads to only 2-3 people for each person that has it, suggesting it does not have equal capability to transmit by air, as Measles does.
+- [stat-news](https://www.statnews.com/2020/03/16/coronavirus-can-become-aerosol-doesnt-mean-doomed/)  
