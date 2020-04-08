@@ -1,14 +1,8 @@
-### goal  
 
-1. to provide maximally informative content,  
-  * relevant to broadest audience  
-  * framed for broadest audience  
-2. as efficiently as possible  
-  * 400 words total  
-3. to test collaboration on a skilled-reflection document.  
-  * hi Natalie and Nick :)
+# thesis  
+Covid-19 is uniquely monolithic in its impact across humanity, providing a unique and vital experiment in language as humans' most powerful tool for connection. This essay is an experiment in maximizing such potential.
 
-# body 
+# main text
 ## definitions  
 covid19  
 - corona virus  
