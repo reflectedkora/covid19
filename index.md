@@ -1,15 +1,14 @@
-# router  
-## goal  
+### goal  
 
-1. to communicate as much as possible,  
+1. to provide maximally informative content,  
+  * relevant to broadest audience  
+  * framed for broadest audience  
 2. as efficiently as possible  
   * 400 words total  
-3. to as many people as possible in the English language  
-4. with restrained contribution, and  
-  * 15 minutes per day per author, maximum  
-5. to test collaboration on a skilled-reflection document.  
-  * hi natalie :)
-  
+3. to test collaboration on a skilled-reflection document.  
+  * hi Natalie and Nick :)
+
+# body 
 ## definitions  
 covid19  
 - corona virus  
