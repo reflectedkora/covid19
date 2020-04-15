@@ -5,15 +5,18 @@ _This project reflects an open-science, applied approach to building and sharing
 In this project is a single main document. The purpose of this main document is to give a baseline context of what matters most.
 But how do we determine what matters most?
 
-First, we take a rough stab at explaining the situation in the *main document* (see below).
+### First  
+we take a rough stab at explaining the situation in the *main document* (see below).
 As soon as we hit about 400 words, and need to make decisions, we move to the second phase.
 
+## Second  
 We begin discussions about the rationale for one vs another possible statement in the main document,
 using supporting documents.
 
 Through evaluation of the _Supporting Arguments and evidence_ in **Support Documents**,
 and the context facts in the main document, we decide what is the working assumption.
 
+## Third  
 The third phase of editing is to balance the amount of space (words) in the main document to be proportionate to
 - the most effective words for change, 
 - on the points (kind of change) that matters most.
