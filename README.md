@@ -1,8 +1,5 @@
-# purpose
-
-This readme, and the target experiment **index** are to be simultaneously edited, along with supporting documents. Edits can be made to the rules proposed here in an effort to best refine the spirit of this objective: 
-
-# To Maximize the efficacy of language for safety through learning.
+# Epistemology of an Epidemic
+_This project reflects an open-science, applied approach to building and sharing informed opinions._
 
 ## 1. to provide maximally informative content,  
 
@@ -23,7 +20,8 @@ This readme, and the target experiment **index** are to be simultaneously edited
   * the nature of collaboration on a document with heavy constraints imposed  
   * the potential to learn more deeply, given a document so constrained.
   
-## topic: covid-19  
+# topic: covid-19  
+
 Covid-19 is an ongoing global emergency with a count of historically unprecedented features increasing regularly. Most of these pertain the singularity and universality of Covid-19's impact on human lives around the globe. Yet another unprecedented consequence of Covid-19 pertains mysteries of cognition, language, and learning.
 
 1. Covid-19, as an object of study, represents the power and speed with which human insight can take shape and eventually shape outcomes. Already in months, scientists have cracked key mysteries (SARS-related) and rejected tempting solutions (herd immunity). However, this transformation is not complete. Critical components to the solution, including vaccine and immunity are missing.  
