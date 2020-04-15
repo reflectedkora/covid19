@@ -1,4 +1,4 @@
-# Epistemology of an Epidemic
+# Epistemology of Pandemic Knowledge
 _This project reflects an open-science, applied approach to building and sharing informed opinions._
 
 ## How this works
